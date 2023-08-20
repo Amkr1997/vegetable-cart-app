@@ -1,0 +1,8 @@
+.cartBtnLink {
+  text-decoration: none;
+}
+
+.cartBtn {
+  border-radius: 25px !important;
+  /* background-color: #51cf66 !important;*/
+}
