@@ -73,10 +73,6 @@ const dummy_vegy_data = [
 ];
 
 export default function vegetables() {
-  /* const vegeItems = dummy_vegy_data.map((veg) => (
-    <VegetableItems veg={veg} key={veg.id} />
-  ));*/
-
   return (
     <div className="container my-5">
       <ul className="row p-0 justify-content-center gap-4">
