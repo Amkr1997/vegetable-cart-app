@@ -1,0 +1,11 @@
+.cartVegetables {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  max-height: 20rem !important;
+  overflow: auto !important;
+}
+
+.cartBtns {
+  text-align: right !important;
+}
